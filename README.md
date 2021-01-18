@@ -27,7 +27,7 @@ public:
 	Pole(unsigned pocet = 0) : aPocet(pocet), aPole(aPocet != 0 ? new int[aPocet] : nullptr) {}
 };
 ```
-doplňte indexovací operátor, aby bolo možné písať:
+doplňte indexovací operátor (5 b), aby bolo možné písať:
 ```cpp
 {
 	Pole pole(10);

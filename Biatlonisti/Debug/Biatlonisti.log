@@ -1,0 +1,13 @@
+﻿  Biatlonista.cpp
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\Biatlonista.cpp(12,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\Biatlonista.cpp(15,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\Biatlonista.cpp(26,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\Biatlonista.cpp(29,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\Biatlonista.cpp(42,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\Biatlonista.cpp(45,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\flpmk\source\repos\BiatlonistiSolution\Biatlonisti\main.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Preteky.cpp
+  Generating Code...
+  Biatlonisti.vcxproj -> C:\Users\flpmk\source\repos\BiatlonistiSolution\Debug\Biatlonisti.exe
